@@ -22,4 +22,4 @@ Printers, scanners, and webcams are commonly used computer peripherals. Printers
 Printers, scanners, and webcams play an important role in everyday computing. Each type serves a specific purpose, making educational, business, and personal tasks easier and more efficient.
 
 # Q2.Draw a labeled diagram showing how a typical home printer connects to a laptop or PC, including the connection interface used (USB, Wi-Fi, or Bluetooth).
-Ans>
+Ans> ![How a Home Printer Connects to a Laptop](How%20a%20Home%20Printer%20Connects%20to%20a%20Laptop.png)
