@@ -23,3 +23,13 @@ Printers, scanners, and webcams play an important role in everyday computing. Ea
 
 # Q2.Draw a labeled diagram showing how a typical home printer connects to a laptop or PC, including the connection interface used (USB, Wi-Fi, or Bluetooth).
 Ans> ![How a Home Printer Connects to a Laptop](How%20a%20Home%20Printer%20Connects%20to%20a%20Laptop.png)
+
+# Q3.List three different connection interfaces (such as USB, Wi-Fi, Bluetooth) used by peripherals like printers, scanners, and webcams, and for each, name one advantage and one disadvantage.<br><br><em><strong>Hint:</strong> Think about speed, convenience, and compatibility.</em>
+Ans>
+## 🔌 Connection Interfaces of Computer Peripherals
+
+| Connection Interface | Advantage ✅ | Disadvantage ❌ |
+|---|---|---|
+| **USB** | Fast data transfer and reliable connection. | Requires a cable and USB port. |
+| **Wi-Fi** | Wireless connectivity and easy sharing over a network. | Performance depends on network quality. |
+| **Bluetooth** | Convenient wireless connection without cables. | Shorter range and generally slower transfer speeds than USB. |
